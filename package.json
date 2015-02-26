@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "express": "3.12.0",
-	"forever": "*"
+	"forever": "1.4.28"
   },
   "devDependencies": {
     "mocha": "1.20.1",
