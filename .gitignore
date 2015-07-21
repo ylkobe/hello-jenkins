@@ -28,4 +28,4 @@ node_modules
 .lock-wscript
 
 # Test Reports
-test*report*
+test-reports.xml
